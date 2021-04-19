@@ -12,8 +12,8 @@
 
 ## Example usage:
 
-- http://localhost:4100/api/timestamp/2015-12-25
-- http://localhost:4100/api/timestamp/1542893623000
+- http://localhost:5000/api/timestamp/2021-04-19
+- http://localhost:50000/api/timestamp/1618837733443
 
 ## Example output:
 
